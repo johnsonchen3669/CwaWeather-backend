@@ -1,10 +1,10 @@
 /**
- * 台灣地點對應表
+ * 臺灣地點對應表
  * 將英文代碼映射到中文地點名稱
  */
 const locations = {
   // 北部
-  taipei: "台北市",
+  taipei: "臺北市",
   newtaipei: "新北市",
   taoyuan: "桃園市",
   hsinchu: "新竹市",
@@ -12,7 +12,7 @@ const locations = {
   miaoli: "苗栗縣",
 
   // 中部
-  taichung: "台中市",
+  taichung: "臺中市",
   nantou: "南投縣",
   changhua: "彰化縣",
   yunlin: "雲林縣",
@@ -20,13 +20,13 @@ const locations = {
   // 南部
   chiayi: "嘉義市",
   chiayi_county: "嘉義縣",
-  tainan: "台南市",
+  tainan: "臺南市",
   kaohsiung: "高雄市",
   pingtung: "屏東縣",
 
   // 東部
   yilan: "宜蘭縣",
-  taitung: "台東縣",
+  taitung: "臺東縣",
   hualien: "花蓮縣",
 
   // 離島
